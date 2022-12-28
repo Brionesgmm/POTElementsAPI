@@ -951,11 +951,11 @@ let elements = {
 }
 
 app.get('/api', (req, res) => {
-    const elementName = req.params.element.toLocaleLowerCase()
+    // const elementName = req.params.element.toLowerCase()
     res.json(elements)
-    if (elements[elementName]) {
-        res.json(elements[elementName])
-    }
+    // if (elements[elementName]) {
+    //     res.json(elements[elementName])
+    // }
 })
 
 app.listen(PORT, () => {
