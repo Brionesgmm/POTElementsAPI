@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const PORT = 8000
 const unknown = "?"
 
@@ -949,6 +950,8 @@ let elements = {
         "chemicalGroup": "Unknown chemical properties"
     }
 }
+
+app.use(cors())
 
 app.get('/api', (req, res) => {
     // const elementName = req.params.element.toLowerCase()
