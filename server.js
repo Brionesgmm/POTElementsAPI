@@ -950,8 +950,9 @@ let elements = {
     }
 }
 
-app.get('/api/:element', (req, res) => {
+app.get('/api', (req, res) => {
     const elementName = req.params.element.toLocaleLowerCase()
+    res.json(elements)
     if (elements[elementName]) {
         res.json(elements[elementName])
     }
