@@ -45,7 +45,7 @@ let elements = {
         "boilingPoint": 3927,
         "chemicalGroup": "Metalloid"
     },
-    "Carbon": {
+    "carbon": {
         "atomicNumber": 6,
         "symbol": "C",
         "atomicMass": 12.011,
@@ -53,7 +53,7 @@ let elements = {
         "boilingPoint": 4827,
         "chemicalGroup": "Nonmetal"
     },
-    "Nitrogen": {
+    "nitrogen": {
         "atomicNumber": 7,
         "symbol": "N",
         "atomicMass": 14.007,
@@ -61,7 +61,7 @@ let elements = {
         "boilingPoint": -195.79,
         "chemicalGroup": "Nonmetal"
     },
-    "Oxygen": {
+    "oxygen": {
         "atomicNumber": 8,
         "symbol": "O",
         "atomicMass": 15.999,
@@ -69,7 +69,7 @@ let elements = {
         "boilingPoint": -183.0,
         "chemicalGroup": "Nonmetal"
     },
-    "Fluorine": {
+    "fluorine": {
         "atomicNumber": 9,
         "symbol": "F",
         "atomicMass": 18.998,
@@ -77,7 +77,7 @@ let elements = {
         "boilingPoint": -188.14,
         "chemicalGroup": "Halogen"
     },
-    "Neon": {
+    "neon": {
         "atomicNumber": 10,
         "symbol": "Ne",
         "atomicMass": 20.18,
@@ -85,7 +85,7 @@ let elements = {
         "boilingPoint": -246.08,
         "chemicalGroup": "Noble gas"
     },
-    "Sodium": {
+    "sodium": {
         "atomicNumber": 11,
         "symbol": "Na",
         "atomicMass": 22.99,
@@ -93,7 +93,7 @@ let elements = {
         "boilingPoint": 883,
         "chemicalGroup": "Alkali metal"
     },
-    "Magnesium": {
+    "magnesium": {
         "atomicNumber": 12,
         "symbol": "Mg",
         "atomicMass": 24.305,
@@ -101,7 +101,7 @@ let elements = {
         "boilingPoint": 1090,
         "chemicalGroup": "Alkaline earth metal"
     },
-    "Aluminum": {
+    "aluminum": {
         "atomicNumber": 13,
         "symbol": "Al",
         "atomicMass": 26.982,
@@ -109,7 +109,7 @@ let elements = {
         "boilingPoint": 2467,
         "chemicalGroup": "Post-transition metal"
     },
-    "Silicon": {
+    "silicon": {
         "atomicNumber": 14,
         "symbol": "Si",
         "atomicMass": 28.085,
@@ -117,7 +117,7 @@ let elements = {
         "boilingPoint": 3265,
         "chemicalGroup": "Metalloid"
     },
-    "Phosphorus": {
+    "phosphorus": {
         "atomicNumber": 15,
         "symbol": "P",
         "atomicMass": 30.974,
@@ -125,7 +125,7 @@ let elements = {
         "boilingPoint": 553.6,
         "chemicalGroup": "Nonmetal"
     },
-    "Sulfur": {
+    "sulfur": {
         "atomicNumber": 16,
         "symbol": "S",
         "atomicMass": 32.06,
@@ -133,7 +133,7 @@ let elements = {
         "boilingPoint": 444.6,
         "chemicalGroup": "Nonmetal"
     },
-    "Chlorine": {
+    "chlorine": {
         "atomicNumber": 17,
         "symbol": "Cl",
         "atomicMass": 35.45,
@@ -141,7 +141,7 @@ let elements = {
         "boilingPoint": -34.04,
         "chemicalGroup": "Halogen"
     },
-    "Argon": {
+    "argon": {
         "atomicNumber": 18,
         "symbol": "Ar",
         "atomicMass": 39.948,
@@ -149,7 +149,7 @@ let elements = {
         "boilingPoint": -185.86,
         "chemicalGroup": "Noble gas"
     },
-    "Potassium": {
+    "potassium": {
         "atomicNumber": 19,
         "symbol": "K",
         "atomicMass": 39.098,
@@ -157,7 +157,7 @@ let elements = {
         "boilingPoint": 759,
         "chemicalGroup": "Alkali metal"
     },
-    "Calcium": {
+    "calcium": {
         "atomicNumber": 20,
         "symbol": "Ca",
         "atomicMass": 40.078,
@@ -165,7 +165,7 @@ let elements = {
         "boilingPoint": 1484,
         "chemicalGroup": "Alkaline earth metal"
     },
-    "Scandium": {
+    "scandium": {
         "atomicNumber": 21,
         "symbol": "Sc",
         "atomicMass": 44.956,
@@ -173,7 +173,7 @@ let elements = {
         "boilingPoint": 2832,
         "chemicalGroup": "Transition metal"
     },
-    "Titanium": {
+    "titanium": {
         "atomicNumber": 22,
         "symbol": "Ti",
         "atomicMass": 47.867,
@@ -181,7 +181,7 @@ let elements = {
         "boilingPoint": 3287,
         "chemicalGroup": "Transition metal"
     },
-    "Vanadium": {
+    "vanadium": {
         "atomicNumber": 23,
         "symbol": "V",
         "atomicMass": 50.942,
@@ -189,7 +189,7 @@ let elements = {
         "boilingPoint": 3407,
         "chemicalGroup": "Transition metal"
     },
-    "Chromium": {
+    "chromium": {
         "atomicNumber": 24,
         "symbol": "Cr",
         "atomicMass": 51.996,
@@ -197,7 +197,7 @@ let elements = {
         "boilingPoint": 2671,
         "chemicalGroup": "Transition metal"
     },
-    "Manganese": {
+    "manganese": {
         "atomicNumber": 25,
         "symbol": "Mn",
         "atomicMass": 54.938,
@@ -205,7 +205,7 @@ let elements = {
         "boilingPoint": 1962,
         "chemicalGroup": "Transition metal"
     },
-    "Iron": {
+    "iron": {
         "atomicNumber": 26,
         "symbol": "Fe",
         "atomicMass": 55.845,
@@ -213,7 +213,7 @@ let elements = {
         "boilingPoint": 3134,
         "chemicalGroup": "Transition metal"
     },
-    "Cobalt": {
+    "cobalt": {
         "atomicNumber": 27,
         "symbol": "Co",
         "atomicMass": 58.933,
@@ -221,7 +221,7 @@ let elements = {
         "boilingPoint": 3200,
         "chemicalGroup": "Transition metal"
     },
-    "Nickel": {
+    "nickel": {
         "atomicNumber": 28,
         "symbol": "Ni",
         "atomicMass": 58.693,
@@ -229,7 +229,7 @@ let elements = {
         "boilingPoint": 3186,
         "chemicalGroup": "Transition metal"
     },
-    "Copper": {
+    "copper": {
         "atomicNumber": 29,
         "symbol": "Cu",
         "atomicMass": 63.546,
@@ -237,7 +237,7 @@ let elements = {
         "boilingPoint": 2562,
         "chemicalGroup": "Transition metal"
     },
-    "Zinc": {
+    "zinc": {
         "atomicNumber": 30,
         "symbol": "Zn",
         "atomicMass": 65.38,
@@ -245,7 +245,7 @@ let elements = {
         "boilingPoint": 907,
         "chemicalGroup": "Transition metal"
     },
-    "Gallium": {
+    "gallium": {
         "atomicNumber": 31,
         "symbol": "Ga",
         "atomicMass": 69.723,
@@ -253,7 +253,7 @@ let elements = {
         "boilingPoint": 2403,
         "chemicalGroup": "Post-transition metal"
     },
-    "Germanium": {
+    "germanium": {
         "atomicNumber": 32,
         "symbol": "Ge",
         "atomicMass": 72.63,
@@ -261,7 +261,7 @@ let elements = {
         "boilingPoint": 2830,
         "chemicalGroup": "Metalloid"
     },
-    "Arsenic": {
+    "arsenic": {
         "atomicNumber": 33,
         "symbol": "As",
         "atomicMass": 74.921,
@@ -269,7 +269,7 @@ let elements = {
         "boilingPoint": 613,
         "chemicalGroup": "Metalloid"
     },
-    "Selenium": {
+    "selenium": {
         "atomicNumber": 34,
         "symbol": "Se",
         "atomicMass": 78.971,
@@ -277,7 +277,7 @@ let elements = {
         "boilingPoint": 685,
         "chemicalGroup": "Nonmetal"
     },
-    "Bromine": {
+    "bromine": {
         "atomicNumber": 35,
         "symbol": "Br",
         "atomicMass": 79.904,
@@ -285,7 +285,7 @@ let elements = {
         "boilingPoint": 58.78,
         "chemicalGroup": "Halogen"
     },
-    "Krypton": {
+    "krypton": {
         "atomicNumber": 36,
         "symbol": "Kr",
         "atomicMass": 83.798,
@@ -293,7 +293,7 @@ let elements = {
         "boilingPoint": -153.22,
         "chemicalGroup": "Noble gas"
     },
-    "Rubidium": {
+    "rubidium": {
         "atomicNumber": 37,
         "symbol": "Rb",
         "atomicMass": 85.468,
@@ -301,7 +301,7 @@ let elements = {
         "boilingPoint": 688,
         "chemicalGroup": "Alkali metal"
     },
-    "Strontium": {
+    "strontium": {
         "atomicNumber": 38,
         "symbol": "Sr",
         "atomicMass": 87.62,
@@ -309,7 +309,7 @@ let elements = {
         "boilingPoint": 1384,
         "chemicalGroup": "Alkaline earth metal"
     },
-    "Yttrium": {
+    "yttrium": {
         "atomicNumber": 39,
         "symbol": "Y",
         "atomicMass": 88.906,
@@ -317,7 +317,7 @@ let elements = {
         "boilingPoint": 3337,
         "chemicalGroup": "Transition metal"
     },
-    "Zirconium": {
+    "zirconium": {
         "atomicNumber": 40,
         "symbol": "Zr",
         "atomicMass": 91.224,
@@ -325,7 +325,7 @@ let elements = {
         "boilingPoint": 4377,
         "chemicalGroup": "Transition metal"
     },
-    "Niobium": {
+    "niobium": {
         "atomicNumber": 41,
         "symbol": "Nb",
         "atomicMass": 92.906,
@@ -333,7 +333,7 @@ let elements = {
         "boilingPoint": 5017,
         "chemicalGroup": "Transition metal"
     },
-    "Molybdenum": {
+    "molybdenum": {
         "atomicNumber": 42,
         "symbol": "Mo",
         "atomicMass": 95.95,
@@ -341,7 +341,7 @@ let elements = {
         "boilingPoint": 5560,
         "chemicalGroup": "Transition metal"
     },
-    "Technetium": {
+    "technetium": {
         "atomicNumber": 43,
         "symbol": "Tc",
         "atomicMass": 98,
@@ -349,7 +349,7 @@ let elements = {
         "boilingPoint": 4877,
         "chemicalGroup": "Transition metal"
     },
-    "Ruthenium": {
+    "ruthenium": {
         "atomicNumber": 44,
         "symbol": "Ru",
         "atomicMass": 101.1,
@@ -357,7 +357,7 @@ let elements = {
         "boilingPoint": 4423,
         "chemicalGroup": "Transition metal"
     },
-    "Rhodium": {
+    "rhodium": {
         "atomicNumber": 45,
         "symbol": "Rh",
         "atomicMass": 102.906,
@@ -365,7 +365,7 @@ let elements = {
         "boilingPoint": 3968,
         "chemicalGroup": "Transition metal"
     },
-    "Palladium": {
+    "palladium": {
         "atomicNumber": 46,
         "symbol": "Pd",
         "atomicMass": 106.42,
@@ -373,7 +373,7 @@ let elements = {
         "boilingPoint": 3236,
         "chemicalGroup": "Transition metal"
     },
-    "Silver": {
+    "silver": {
         "atomicNumber": 47,
         "symbol": "Ag",
         "atomicMass": 107.868,
@@ -381,7 +381,7 @@ let elements = {
         "boilingPoint": 2162,
         "chemicalGroup": "Transition metal"
     },
-    "Cadmium": {
+    "cadmium": {
         "atomicNumber": 48,
         "symbol": "Cd",
         "atomicMass": 112.411,
@@ -389,7 +389,7 @@ let elements = {
         "boilingPoint": 765,
         "chemicalGroup": "Transition metal"
     },
-    "Indium": {
+    "indium": {
         "atomicNumber": 49,
         "symbol": "In",
         "atomicMass": 114.818,
@@ -397,7 +397,7 @@ let elements = {
         "boilingPoint": 2072,
         "chemicalGroup": "Post-transition metal"
     },
-    "Tin": {
+    "tin": {
         "atomicNumber": 50,
         "symbol": "Sn",
         "atomicMass": 118.71,
@@ -405,7 +405,7 @@ let elements = {
         "boilingPoint": 2270,
         "chemicalGroup": "Post-transition metal"
     },
-    "Antimony": {
+    "antimony": {
         "atomicNumber": 51,
         "symbol": "Sb",
         "atomicMass": 121.76,
@@ -413,7 +413,7 @@ let elements = {
         "boilingPoint": 1587,
         "chemicalGroup": "Metalloid"
     },
-    "Tellurium": {
+    "tellurium": {
         "atomicNumber": 52,
         "symbol": "Te",
         "atomicMass": 127.6,
@@ -421,7 +421,7 @@ let elements = {
         "boilingPoint": 990,
         "chemicalGroup": "Metalloid"
     },
-    "Iodine": {
+    "iodine": {
         "atomicNumber": 53,
         "symbol": "I",
         "atomicMass": 126.904,
@@ -429,7 +429,7 @@ let elements = {
         "boilingPoint": 457.4,
         "chemicalGroup": "Halogen"
     },
-    "Xenon": {
+    "xenon": {
         "atomicNumber": 54,
         "symbol": "Xe",
         "atomicMass": 131.293,
@@ -437,7 +437,7 @@ let elements = {
         "boilingPoint": 165.03,
         "chemicalGroup": "Noble gas"
     },
-    "Cesium": {
+    "cesium": {
         "atomicNumber": 55,
         "symbol": "Cs",
         "atomicMass": 132.905,
@@ -445,7 +445,7 @@ let elements = {
         "boilingPoint": 678.4,
         "chemicalGroup": "Alkali metal"
     },
-    "Barium": {
+    "barium": {
         "atomicNumber": 56,
         "symbol": "Ba",
         "atomicMass": 137.327,
@@ -453,7 +453,7 @@ let elements = {
         "boilingPoint": 1140,
         "chemicalGroup": "Alkaline earth metal"
     },
-    "Lanthanum": {
+    "lanthanum": {
         "atomicNumber": 57,
         "symbol": "La",
         "atomicMass": 138.906,
@@ -461,7 +461,7 @@ let elements = {
         "boilingPoint": 3469,
         "chemicalGroup": "Lanthanoid"
     },
-    "Cerium": {
+    "cerium": {
         "atomicNumber": 58,
         "symbol": "Ce",
         "atomicMass": 140.116,
@@ -469,7 +469,7 @@ let elements = {
         "boilingPoint": 3257,
         "chemicalGroup": "Lanthanoid"
     },
-    "Praseodymium": {
+    "praseodymium": {
         "atomicNumber": 59,
         "symbol": "Pr",
         "atomicMass": 140.908,
@@ -477,7 +477,7 @@ let elements = {
         "boilingPoint": 3127,
         "chemicalGroup": "Lanthanoid"
     },
-    "Neodymium": {
+    "neodymium": {
         "atomicNumber": 60,
         "symbol": "Nd",
         "atomicMass": 144.242,
@@ -485,7 +485,7 @@ let elements = {
         "boilingPoint": 3127,
         "chemicalGroup": "Lanthanoid"
     },
-    "Promethium": {
+    "promethium": {
         "atomicNumber": 61,
         "symbol": "Pm",
         "atomicMass": 145,
@@ -493,7 +493,7 @@ let elements = {
         "boilingPoint": 3000,
         "chemicalGroup": "Lanthanoid"
     },
-    "Samarium": {
+    "samarium": {
         "atomicNumber": 62,
         "symbol": "Sm",
         "atomicMass": 150.36,
@@ -501,7 +501,7 @@ let elements = {
         "boilingPoint": 1803,
         "chemicalGroup": "Lanthanoid"
     },
-    "Europium": {
+    "europium": {
         "atomicNumber": 63,
         "symbol": "Eu",
         "atomicMass": 152.932,
@@ -509,7 +509,7 @@ let elements = {
         "boilingPoint": 1527,
         "chemicalGroup": "Lanthanoid"
     },
-    "Gadolinium": {
+    "gadolinium": {
         "atomicNumber": 64,
         "symbol": "Gd",
         "atomicMass": 157.25,
@@ -517,7 +517,7 @@ let elements = {
         "boilingPoint": 3233,
         "chemicalGroup": "Lanthanoid"
     },
-    "Terbium": {
+    "terbium": {
         "atomicNumber": 65,
         "symbol": "Tb",
         "atomicMass": 158.925,
@@ -525,7 +525,7 @@ let elements = {
         "boilingPoint": 3396,
         "chemicalGroup": "Lanthanoid"
     },
-    "Dysprosium": {
+    "dysprosium": {
         "atomicNumber": 66,
         "symbol": "Dy",
         "atomicMass": 162.5,
@@ -533,7 +533,7 @@ let elements = {
         "boilingPoint": 2840,
         "chemicalGroup": "Lanthanoid"
     },
-    "Holmium": {
+    "holmium": {
         "atomicNumber": 67,
         "symbol": "Ho",
         "atomicMass": 164.93,
@@ -541,7 +541,7 @@ let elements = {
         "boilingPoint": 2720,
         "chemicalGroup": "Lanthanoid"
     },
-    "Erbium": {
+    "erbium": {
         "atomicNumber": 68,
         "symbol": "Er",
         "atomicMass": 167.259,
@@ -549,7 +549,7 @@ let elements = {
         "boilingPoint": 2510,
         "chemicalGroup": "Lanthanoid"
     },
-    "Thulium": {
+    "thulium": {
         "atomicNumber": 69,
         "symbol": "Tm",
         "atomicMass": 168.934,
@@ -557,7 +557,7 @@ let elements = {
         "boilingPoint": 1727,
         "chemicalGroup": "Lanthanoid"
     },
-    "Ytterbium": {
+    "ytterbium": {
         "atomicNumber": 70,
         "symbol": "Yb",
         "atomicMass": 173.054,
@@ -565,7 +565,7 @@ let elements = {
         "boilingPoint": 1466,
         "chemicalGroup": "Lanthanoid"
     },
-    "Lutetium": {
+    "lutetium": {
         "atomicNumber": 71,
         "symbol": "Lu",
         "atomicMass": 175.08,
@@ -573,7 +573,7 @@ let elements = {
         "boilingPoint": 3315,
         "chemicalGroup": "Lanthanoid"
     },
-    "Hafnium": {
+    "hafnium": {
         "atomicNumber": 72,
         "symbol": "Hf",
         "atomicMass": 178.49,
@@ -581,7 +581,7 @@ let elements = {
         "boilingPoint": 4603,
         "chemicalGroup": "Transition metal"
     },
-    "Tantalum": {
+    "tantalum": {
         "atomicNumber": 73,
         "symbol": "Ta",
         "atomicMass": 180.948,
@@ -589,7 +589,7 @@ let elements = {
         "boilingPoint": 5425,
         "chemicalGroup": "Transition metal"
     },
-    "Tungsten": {
+    "tungsten": {
         "atomicNumber": 74,
         "symbol": "W",
         "atomicMass": 183.84,
@@ -597,7 +597,7 @@ let elements = {
         "boilingPoint": 5828,
         "chemicalGroup": "Transition metal"
     },
-    "Rhenium": {
+    "rhenium": {
         "atomicNumber": 75,
         "symbol": "Re",
         "atomicMass": 186.207,
@@ -605,7 +605,7 @@ let elements = {
         "boilingPoint": 5869,
         "chemicalGroup": "Transition metal"
     },
-    "Osmium": {
+    "osmium": {
         "atomicNumber": 76,
         "symbol": "Os",
         "atomicMass": 190.23,
@@ -613,7 +613,7 @@ let elements = {
         "boilingPoint": 5285,
         "chemicalGroup": "Transition metal"
     },
-    "Iridium": {
+    "iridium": {
         "atomicNumber": 77,
         "symbol": "Ir",
         "atomicMass": 192.217,
@@ -621,7 +621,7 @@ let elements = {
         "boilingPoint": 4701,
         "chemicalGroup": "Transition metal"
     },
-    "Platinum": {
+    "platinum": {
         "atomicNumber": 78,
         "symbol": "Pt",
         "atomicMass": 195.084,
@@ -629,7 +629,7 @@ let elements = {
         "boilingPoint": 4098,
         "chemicalGroup": "Transition metal"
     },
-    "Gold": {
+    "gold": {
         "atomicNumber": 79,
         "symbol": "Au",
         "atomicMass": 196.967,
@@ -637,7 +637,7 @@ let elements = {
         "boilingPoint": 2807,
         "chemicalGroup": "Transition metal"
     },
-    "Mercury": {
+    "mercury": {
         "atomicNumber": 80,
         "symbol": "Hg",
         "atomicMass": 200.59,
@@ -645,7 +645,7 @@ let elements = {
         "boilingPoint": 356.73,
         "chemicalGroup": "Transition metal"
     },
-    "Thallium": {
+    "thallium": {
         "atomicNumber": 81,
         "symbol": "Tl",
         "atomicMass": 204.38,
@@ -653,7 +653,7 @@ let elements = {
         "boilingPoint": 1457,
         "chemicalGroup": "Post-transition metal"
     },
-    "Lead": {
+    "lead": {
         "atomicNumber": 82,
         "symbol": "Pb",
         "atomicMass": 207.2,
@@ -661,7 +661,7 @@ let elements = {
         "boilingPoint": 1740,
         "chemicalGroup": "Post-transition metal"
     },
-    "Bismuth": {
+    "bismuth": {
         "atomicNumber": 83,
         "symbol": "Bi",
         "atomicMass": 209,
@@ -669,7 +669,7 @@ let elements = {
         "boilingPoint": 1560,
         "chemicalGroup": "Post-transition metal"
     },
-    "Polonium": {
+    "polonium": {
         "atomicNumber": 84,
         "symbol": "Po",
         "atomicMass": 209,
@@ -677,7 +677,7 @@ let elements = {
         "boilingPoint": 962,
         "chemicalGroup": "Post-transition metal"
     },
-    "Astatine": {
+    "astatine": {
         "atomicNumber": 85,
         "symbol": "At",
         "atomicMass": 210,
@@ -685,7 +685,7 @@ let elements = {
         "boilingPoint": 337,
         "chemicalGroup": "Metalloid"
     },
-    "Radon": {
+    "radon": {
         "atomicNumber": 86,
         "symbol": "Rn",
         "atomicMass": 222,
@@ -693,7 +693,7 @@ let elements = {
         "boilingPoint": -61.7,
         "chemicalGroup": "Noble gas"
     },
-    "Francium": {
+    "francium": {
         "atomicNumber": 87,
         "symbol": "Fr",
         "atomicMass": 223,
@@ -701,7 +701,7 @@ let elements = {
         "boilingPoint": 677,
         "chemicalGroup": "Alkali metal"
     },
-    "Radium": {
+    "radium": {
         "atomicNumber": 88,
         "symbol": "Ra",
         "atomicMass": 226,
@@ -709,7 +709,7 @@ let elements = {
         "boilingPoint": 1737,
         "chemicalGroup": "Alkaline earth metal"
     },
-    "Actinium": {
+    "actinium": {
         "atomicNumber": 89,
         "symbol": "Ac",
         "atomicMass": 227,
@@ -717,7 +717,7 @@ let elements = {
         "boilingPoint": 3200,
         "chemicalGroup": "Actinoid"
     },
-    "Thorium": {
+    "thorium": {
         "atomicNumber": 90,
         "symbol": "Th",
         "atomicMass": 232.038,
@@ -725,7 +725,7 @@ let elements = {
         "boilingPoint": 4790,
         "chemicalGroup": "Actinoid"
     },
-    "Protactinium": {
+    "protactinium": {
         "atomicNumber": 91,
         "symbol": "Pa",
         "atomicMass": 231.036,
@@ -733,7 +733,7 @@ let elements = {
         "boilingPoint": 4000,
         "chemicalGroup": "Actinoid"
     },
-    "Uranium": {
+    "uranium": {
         "atomicNumber": 92,
         "symbol": "U",
         "atomicMass": 238.029,
@@ -741,7 +741,7 @@ let elements = {
         "boilingPoint": 4131,
         "chemicalGroup": "Actinoid"
     },
-    "Neptunium": {
+    "neptunium": {
         "atomicNumber": 93,
         "symbol": "Np",
         "atomicMass": 237,
@@ -749,7 +749,7 @@ let elements = {
         "boilingPoint": 3902,
         "chemicalGroup": "Actinoid"
     },
-    "Plutonium": {
+    "plutonium": {
         "atomicNumber": 94,
         "symbol": "Pu",
         "atomicMass": 244,
@@ -757,7 +757,7 @@ let elements = {
         "boilingPoint": 3232,
         "chemicalGroup": "Actinoid"
     },
-    "Americium": {
+    "americium": {
         "atomicNumber": 95,
         "symbol": "Am",
         "atomicMass": 243,
@@ -765,7 +765,7 @@ let elements = {
         "boilingPoint": 2607,
         "chemicalGroup": "Actinoid"
     },
-    "Curium": {
+    "curium": {
         "atomicNumber": 96,
         "symbol": "Cm",
         "atomicMass": 247,
@@ -773,7 +773,7 @@ let elements = {
         "boilingPoint": 3110,
         "chemicalGroup": "Actinoid"
     },
-    "Berkelium": {
+    "berkelium": {
         "atomicNumber": 97,
         "symbol": "Bk",
         "atomicMass": 247,
@@ -781,7 +781,7 @@ let elements = {
         "boilingPoint": 2900,
         "chemicalGroup": "Actinoid"
     },
-    "Californium": {
+    "californium": {
         "atomicNumber": 98,
         "symbol": "Cf",
         "atomicMass": 251,
@@ -789,7 +789,7 @@ let elements = {
         "boilingPoint": 1470,
         "chemicalGroup": "Actinoid"
     },
-    "Einsteinium": {
+    "einsteinium": {
         "atomicNumber": 99,
         "symbol": "Es",
         "atomicMass": 252,
@@ -797,7 +797,7 @@ let elements = {
         "boilingPoint": 1269,
         "chemicalGroup": "Actinoid"
     },
-    "Fermium": {
+    "fermium": {
         "atomicNumber": 100,
         "symbol": "Fm",
         "atomicMass": 257,
@@ -805,7 +805,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Actinoid"
     },
-    "Mendelevium": {
+    "mendelevium": {
         "atomicNumber": 101,
         "symbol": "Md",
         "atomicMass": 258,
@@ -813,7 +813,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Actinoid"
     },
-    "Nobelium": {
+    "nobelium": {
         "atomicNumber": 102,
         "symbol": "No",
         "atomicMass": 259,
@@ -821,7 +821,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Actinoid"
     },
-    "Lawrencium": {
+    "lawrencium": {
         "atomicNumber": 103,
         "symbol": "Lr",
         "atomicMass": 262,
@@ -829,7 +829,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Actinoid"
     },
-    "Rutherfordium": {
+    "rutherfordium": {
         "atomicNumber": 104,
         "symbol": "Rf",
         "atomicMass": 261,
@@ -837,7 +837,7 @@ let elements = {
         "boilingPoint": 5800,
         "chemicalGroup": "Transition metal"
     },
-    "Dubnium": {
+    "dubnium": {
         "atomicNumber": 105,
         "symbol": "Db",
         "atomicMass": 262,
@@ -845,7 +845,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Seaborgium": {
+    "seaborgium": {
         "atomicNumber": 106,
         "symbol": "Sg",
         "atomicMass": 266,
@@ -853,7 +853,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Bohrium": {
+    "bohrium": {
         "atomicNumber": 107,
         "symbol": "Bh",
         "atomicMass": 264,
@@ -861,7 +861,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Hassium": {
+    "hassium": {
         "atomicNumber": 108,
         "symbol": "Hs",
         "atomicMass": 277,
@@ -869,7 +869,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Meitnerium": {
+    "meitnerium": {
         "atomicNumber": 109,
         "symbol": "Mt",
         "atomicMass": 278,
@@ -877,7 +877,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Darmstadtium": {
+    "darmstadtium": {
         "atomicNumber": 110,
         "symbol": "Ds",
         "atomicMass": 281,
@@ -885,7 +885,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Roentgenium": {
+    "roentgenium": {
         "atomicNumber": 111,
         "symbol": "Rg",
         "atomicMass": 280,
@@ -893,7 +893,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Copernicium": {
+    "copernicium": {
         "atomicNumber": 112,
         "symbol": "Cn",
         "atomicMass": 285,
@@ -901,7 +901,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Transition metal"
     },
-    "Nihonium": {
+    "nihonium": {
         "atomicNumber": 113,
         "symbol": "Nh",
         "atomicMass": 286,
@@ -909,7 +909,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Unknown chemical properties"
     },
-    "Flerovium": {
+    "flerovium": {
         "atomicNumber": 114,
         "symbol": "Fl",
         "atomicMass": 289,
@@ -917,7 +917,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Unknown chemical properties"
     },
-    "Moscovium": {
+    "moscovium": {
         "atomicNumber": 115,
         "symbol": "Mc",
         "atomicMass": 289,
@@ -925,7 +925,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Unknown chemical properties"
     },
-    "Livermorium": {
+    "livermorium": {
         "atomicNumber": 116,
         "symbol": "Lv",
         "atomicMass": 293,
@@ -933,7 +933,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Unknown chemical properties"
     },
-    "Tennessine": {
+    "tennessine": {
         "atomicNumber": 117,
         "symbol": "Ts",
         "atomicMass": 294,
@@ -941,7 +941,7 @@ let elements = {
         "boilingPoint": unknown,
         "chemicalGroup": "Unknown chemical properties"
     },
-    "Oganesson": {
+    "oganesson": {
         "atomicNumber": 118,
         "symbol": "Og",
         "atomicMass": 294,
