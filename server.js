@@ -1908,7 +1908,7 @@ app.get('/api', (req, res) => {
 })
 
 app.get('/api/elementArray', (req, res) => {
-    req.json(arrayElements)
+    res.json(arrayElements)
 })
 
 app.listen(PORT, () => {
